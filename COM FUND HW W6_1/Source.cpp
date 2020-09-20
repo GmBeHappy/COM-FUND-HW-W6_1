@@ -10,7 +10,7 @@ int main()
     scanf("%s",str);
     countSVC(str);
     
-    printf("Number of Spacial Charactor in Text : %d \n", sCount);
+    printf("Number of Spacial Character in Text : %d \n", sCount);
     printf("Number of Vowels in Text : %d\n", vCount);
     printf("Number of Consonants in Text : %d", cCount);
     return 0;
